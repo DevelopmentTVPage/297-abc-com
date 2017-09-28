@@ -1,0 +1,15 @@
+{
+    "title": "Project ABC",
+    "baseURL": "https:\/\/abc.com\/def",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/def",
+        "firstpartycookies": true,
+        "cookiedomain": "abc.com"
+    }
+}
