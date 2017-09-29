@@ -10,6 +10,6 @@
     "type": "inline-spotlight",
     "title": "Widget ABC",
     "name": "widget-abc",
-    "channelId": "117404496",
+    "channelId": "117404498",
     "layout": "bootstrap"
 }
